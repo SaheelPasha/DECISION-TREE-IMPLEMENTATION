@@ -24,3 +24,9 @@ They can effectively handle both numerical and categorical data
 # Decision Tree Applications
 A decision tree is used to determine whether an applicant is likely to default on a loan.
 It can be used to determine the odds of an individual developing a specific disease.
+
+# Task 
+Build and visualize a Decision Tree to classify or predict outcomes.
+Use scikit-learn.
+Deliverable: Jupyter Notebook with model visualization and analysis.
+
