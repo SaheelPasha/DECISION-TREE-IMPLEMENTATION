@@ -39,7 +39,8 @@ In my project, the decision tree worked very well and gave correct results most 
 # Final Thoughts
 This project helped me to learn the basics of machine learning in a very simple and clear way.I now understand how to prepare data, train a model, test it, and check how well it works. I also learned how to explain a model by drawing it. This project is a great start and will help to move on to bigger and more advanced topics in machine learning later.
 
-
+# output
+![Image](https://github.com/user-attachments/assets/25e961c4-36ac-4cf9-b38a-44e89a6af062)
 
 
 
